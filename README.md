@@ -30,17 +30,17 @@ Make sure you have a modern web browser installed to view the website.
 cd women-empowerment-courses
 
 2.Open the index.html file in your web browser.
-Usage
+Usage:
 Feel free to explore the website and enroll in empowering courses! If you encounter any issues or have suggestions for improvement, please create an issue.
 
-Contributing
+Contributing:
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1.Fork the repository.
 2.Create a new branch for your feature or bug fix.
 3.Make your changes and submit a pull request.
 
-License
+License:
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code.
 
 Thank you for checking out our Women Empowerment Courses Website!
