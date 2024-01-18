@@ -25,7 +25,7 @@ Make sure you have a modern web browser installed to view the website.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/women-empowerment-courses.git
+   git clone https://github.com/Haritha924/Mywebsite
 1.Navigate to the project directory:
 cd women-empowerment-courses
 
